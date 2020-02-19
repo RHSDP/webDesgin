@@ -1,0 +1,216 @@
+body{
+   margin: 0px;
+   padding: 0px;
+    
+}
+
+/*style for nav seaction  */
+.nav-seaction{
+    background-color: rgb(240, 239, 245);
+    height: 100px;
+    
+}
+.logo{
+    margin-left: 70px;
+    margin-top: 26px;
+    margin-bottom: 20px;
+    color: rgb(68, 40, 43);
+   
+}
+.nav{
+    float: right;
+    color: floralwhite;
+    background-color:darkslategrey;
+    opacity: .9;
+    margin-top: 20px;
+    padding-right: 130px;
+}
+
+.nav-item{
+    padding: 20px;
+
+}
+.serction{
+    background-color: rgb(52, 22, 71);
+    background-clip: border-box;
+    
+    margin-top: 0px;
+   
+}
+.bak{
+    background-color: rgb(43, 73, 105);
+}
+.bakg{
+    background-color: rgb(171, 169, 172);
+}
+
+
+.image-nav{
+   
+}
+
+.img-h{
+    height: 240px;
+    width: 100%;
+    position: center;
+}
+
+.seaction-slide{
+    background-color: #eee;
+    width: 370px;
+    height: 90px;
+   
+    padding-left: 10px;
+    border: 1px solid rgb(5, 5, 5);
+    border-bottom-right-radius: 12px;;
+    border-top-right-radius: 12px;
+   
+
+}
+
+/* style of body seaction */
+.container{
+    margin-top: 100px;
+  
+}
+.caed3{
+    margin-left: 40px;
+}
+.card2{
+   margin-left: 70px;
+    
+}
+.card1{
+    float: right;
+   margin-right: 40px;
+}
+
+.card-seaction2{
+    margin-top: 100px;
+    margin-left: 70px;
+   
+}
+
+.row{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.card-seaction3{
+    margin-top: 190px;
+}
+
+/* srart style of seaction 3*/
+
+.seaction3{
+    border: 1px solid rgb(5, 5, 5);
+    margin-top: 90px;
+    margin-bottom: 50px;
+    height: 300px;
+}
+
+.header-seaction3{
+    text-align: center;
+    text-justify: distribute;
+    margin-top: 20px;
+}
+
+.box1-seaction3{
+
+    width: 320px;
+    height: 200px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.box1{
+    float: right;
+    margin-right: 130px;
+}
+
+.box2{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.box-header{
+ 
+  vertical-align: middle;
+}
+
+.avatar{
+    vertical-align: middle;
+    background-color: slategray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+/*start of seaction 4*/
+.log-compune{
+    height: 120px;
+    margin-bottom: 20px;
+  border-color: rgb(68, 40, 43);
+}
+
+
+.logo1{
+    width: 90px;
+    height: 90px;
+    border: 1px solid rgb(68, 40, 43);
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.logo-count{
+   position: absolute;
+    margin-top: 20px;
+}
+.lg{
+    float: right;
+   margin-right: 160px;
+}
+
+.text-logo{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+/*end of seaction 4*/
+
+/* footer seaction */
+
+.footer{
+    background-color: darkslategrey;
+    width: 100%;
+    height: 280px;
+    
+}
+.conternt-footer{
+    padding-top: 35px;;
+}
+
+.footer h3{
+    text-align: center;
+    color: floralwhite;
+   font-size: 30px;
+
+}
+.form{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 520px;
+    border-radius: 12px;
+    text-align: center;
+
+}
